@@ -1,0 +1,12 @@
+C:\Library Management System\Application\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Library Management System\Application\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Library Management System\Application\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Library Management System\Application\DatabaseLayer\bin\Debug\EntityFramework.dll
+C:\Library Management System\Application\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Library Management System\Application\DatabaseLayer\bin\Debug\EntityFramework.xml
+C:\Library Management System\Application\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Library Management System\Application\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.AssemblyReference.cache
+C:\Library Management System\Application\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Library Management System\Application\DatabaseLayer\obj\Debug\Database.D87FB5DC.Up2Date
+C:\Library Management System\Application\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Library Management System\Application\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

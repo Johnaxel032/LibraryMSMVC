@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Library Management System\\Application\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Library Management System\\Application\\LibraryManagementSystem\\librarymanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\library management system\\application\\librarymanagementsystem\\librarymanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Library Management System\\Application\\LibraryManagementSystem\\librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Library Management System\\Application\\LibraryManagementSystem\\librarymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\librarymgtsystem.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Library Management System\\Application\\LibraryManagementSystem\\librarymanagementsystem\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Library Management System\\Application\\LibraryManagementSystem\\librarymanagementsystem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11A46EDA-99B3-4FB8-9F46-F8DACE19768F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\usertypetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\employeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\issuebooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\purchasedetailtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\purchasetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\suppliertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\departmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\booktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\booktypetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\designationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\bookreturntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F79A1BA-D96D-4CFA-8A66-8D4FF95A61B9}|..\\DatabaseLayer\\DatabaseLayer.csproj|c:\\library management system\\application\\databaselayer\\bookfinetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\packages.config",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\packages.config",
+              "ToolTip": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\packages.config",
+              "RelativeToolTip": "LibraryManagementSystem\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-13T16:21:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\packages.config",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\packages.config",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\packages.config",
+              "RelativeToolTip": "..\\DatabaseLayer\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-13T16:19:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAAAGQBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T19:25:02.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Web.config",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Web.config",
+              "ToolTip": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Web.config",
+              "RelativeToolTip": "LibraryManagementSystem\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-06T17:04:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:09:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:09:27.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:00:07.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTypeTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\UserTypeTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\UserTypeTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\UserTypeTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\UserTypeTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:11:56.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\UserTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\UserTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\UserTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\UserTable.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:10:07.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SupplierTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\SupplierTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\SupplierTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\SupplierTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\SupplierTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:06:06.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PurchaseTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\PurchaseTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\PurchaseTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\PurchaseTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\PurchaseTable.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:04:22.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PurchaseDetailTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\PurchaseDetailTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\PurchaseDetailTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\PurchaseDetailTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\PurchaseDetailTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:03:18.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IssueBookTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\IssueBookTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\IssueBookTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\IssueBookTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\IssueBookTable.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:57:25.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\EmployeeTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\EmployeeTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\EmployeeTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\EmployeeTable.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:53:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DesignationTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\DesignationTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\DesignationTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\DesignationTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\DesignationTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:52:47.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\DepartmentTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\DepartmentTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\DepartmentTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\DepartmentTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:52:19.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookTypeTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\BookTypeTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\BookTypeTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\BookTypeTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\BookTypeTable.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:51:02.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\BookTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\BookTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\BookTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\BookTable.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA0wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:46:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookReturnTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\BookReturnTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\BookReturnTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\BookReturnTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\BookReturnTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:43:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookFineTable.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\BookFineTable.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\BookFineTable.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\BookFineTable.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\BookFineTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:36:30.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryMgtSystem.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\LibraryMgtSystem.edmx",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\LibraryMgtSystem.edmx",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\LibraryMgtSystem.edmx [Diagram1]",
+              "RelativeToolTip": "..\\DatabaseLayer\\LibraryMgtSystem.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-01T18:27:52.121Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Library Management System\\Application\\DatabaseLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DatabaseLayer\\Class1.cs",
+              "ToolTip": "C:\\Library Management System\\Application\\DatabaseLayer\\Class1.cs",
+              "RelativeToolTip": "..\\DatabaseLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:13:39.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

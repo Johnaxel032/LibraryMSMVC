@@ -1,0 +1,115 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Xml.Linq;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
+using System.IO;
+using System.Net;
+
+namespace Admin_DBProj
+{
+    public partial class accounts : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                BindGridView();
+            }
+        }
+
+        protected void BindGridView()
+        {
+
+
+            try
+            {
+                SqlDataSource1.SelectCommand = "SP_Customers_GV";
+                customer.DataBind();
+            }
+            catch (Exception ex)
+            {
+                // Handle exceptions
+            }
+        }
+
+        protected void btnAddCustomer_Click(object sender, EventArgs e)
+        {
+            addCustomer();
+        }
+        void addCustomer()
+        {
+
+            try
+            {
+                // Get values from form inputs
+                string name = txtName.Text;
+                string address = txtAddress.Text;
+                string email = txtEmail.Text;
+                string phoneNumber = txtPhoneNumber.Text;
+                string password = txtPassword.Text;
+
+                // Insert new customer into the database
+                InsertCustomer(name, address, email, phoneNumber, password);
+
+                // Refresh GridView after adding the customer
+                BindGridView();
+
+                // Clear form inputs after adding the customer
+                ClearForm();
+
+                // Show success message
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "script", "alert('Customer added successfully');", true);
+            }
+            catch (Exception ex)
+            {
+                // Handle exceptions
+            }
+        }
+
+        protected void ClearForm()
+             {
+                 txtName.Text = "";
+                 txtAddress.Text = "";
+                 txtEmail.Text = "";
+                 txtPhoneNumber.Text = "";
+                 txtPassword.Text = "";
+              }
+
+        // Implement this method to insert a new customer into the database
+        protected void InsertCustomer(string name, string address, string email, string phoneNumber, string password)
+        {
+
+            // Create a connection to the database
+            using (SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString))
+            {
+                // Create a SqlCommand object to execute the stored procedure
+                using (SqlCommand cmd = new SqlCommand("SP_CREATE_ACCOUNT", connection))
+                {
+                    // Set the command type to stored procedure
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    // Add parameters to the stored procedure
+                    cmd.Parameters.AddWithValue("@Name", name);
+                    cmd.Parameters.AddWithValue("@Address", address);
+                    cmd.Parameters.AddWithValue("@Email", email);
+                    cmd.Parameters.AddWithValue("@PhoneNumber", phoneNumber);
+                    cmd.Parameters.AddWithValue("@Password", password);
+
+                    // Open the connection
+                    connection.Open();
+
+                    // Execute the command
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
+    }
+
+}
